@@ -51,6 +51,7 @@ public class helloWorld {
 
         System.out.printf("Grand Total: %,.2f\n", 2222.1588);
         //**Important end**//
+        //this is a new change
 
         //newPackageMainClass objForOtherPackage = new newPackageMainClass();
         newPackageSubClass objForOtherPackage = new newPackageSubClass();
